@@ -1,0 +1,14 @@
+.screenwrapper{
+  background-image: url("../src/Assets/edecation.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position:absolute;
+  width:auto;
+  height:100vh
+}
+.formwrapper{
+  background-image: url("../src/Assets/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position:relative
+}
